@@ -21,7 +21,7 @@ def start(update, context):
 
 
 def help(update, context):
-    update.message.reply_text("*Hey! My name is Dwindle.* "
+    update.message.reply_text("*Hey! My name is TINY LINK.* "
                               "\n\nI am a link shortener bot, here to help you to shorten your links!"
                               "\nI have lots of handy features to help You"
                               "\n\n*Helpful commands:*"

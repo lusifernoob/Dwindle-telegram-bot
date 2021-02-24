@@ -28,7 +28,8 @@ def help(update, context):
                               "\n\t\t- /start: Starts me! You've probably already used this."
                               "\n\t\t- /help: Sends this message; I'll tell you more about myself!"
                               "\n - /short <platform> <url> : Shortens the given URL"
-                              "\n     *Ex:* `/short bitly https://t.me/dwindle_bot/`"
+                              "\n     *Ex:* `/short bitly https://t.me/Tinylink_bot/`"
+/`"
                               "\n  - /unshort <url> : Unshorts the given URL"
                               "\n  - /about : About the bot"
                               "\n\t\t- /donate: Gives you info on how to support me and my creator.",
@@ -50,11 +51,11 @@ def aboutTheBot(update, context):
 
     reply_markup = telegram.InlineKeyboardMarkup(keyboard)
 
-    update.message.reply_text("<b>Hey! My name is Dwindle.</b>"
+    update.message.reply_text("<b>Hey! My name is Tiny Link.</b>"
                               "\nI can handle links in different ways."
                               "\n\n<b>About Me :</b>"
-                              "\n\n  - <b>Name</b>        : Dwindle"
-                              "\n\n  - <b>Creator</b>      : @theostrich"
+                              "\n\n  - <b>Name</b>        :Tiny Link "
+                              "\n\n  - <b>Creator</b>      : @shado_hackers"
                               "\n\n  - <b>Language</b>  : Python 3"
                               "\n\n  - <b>Library</b>       : <a href=\"https://github.com/python-telegram-bot/python-telegram-bot/\">python-telegram-bot</a>"
                               "\n\n  - <b>Source Code</b>  : <a href=\"https://github.com/RabbitFored/Dwindle/\">Dwindle-Source</a>"

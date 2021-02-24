@@ -29,7 +29,6 @@ def help(update, context):
                               "\n\t\t- /help: Sends this message; I'll tell you more about myself!"
                               "\n - /short <platform> <url> : Shortens the given URL"
                               "\n     *Ex:* `/short bitly https://omginfotk.wordpress.com/`"
-/`"
                               "\n  - /unshort <url> : Unshorts the given URL"
                               "\n  - /about : About the bot"
                               "\n\t\t- /donate: Gives you info on how to support me and my creator.",

@@ -20,7 +20,7 @@
     },
     "WEBHOOK":{
        "description":"Setting this to ANYTHING will enable webhooks when in env mode messages",
-       "value":"TRUE"
+       "value":""
       },
       "PUBLIC_URL":{
        "description":"The Heroku App URL, similar to https://<appname>.herokuapp.com/",
